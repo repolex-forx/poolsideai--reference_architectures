@@ -1,0 +1,11 @@
+{
+  "org": "poolsideai",
+  "repo": "reference_architectures",
+  "versions": [
+    {
+      "commit": "d2c2bc38c45465b091e082979ed077073650a3c5",
+      "tag": "main",
+      "parsed_at": "2026-10-01T07:07:14.854477+00:00"
+    }
+  ]
+}
